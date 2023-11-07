@@ -1,5 +1,5 @@
 # Use the official Hasura image as the base image
-FROM hasura/graphql-engine:v2.0.0
+FROM hasura/graphql-engine:latest
 
 # Set the environment variables for connecting to the Postgres database
 # Replace the values with your own credentials
